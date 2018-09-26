@@ -1,1 +1,1 @@
-# 博客搭建参考自http://qiubaiying.top
+博客搭建参考自https://github.com/qiubaiying/qiubaiying.github.io
