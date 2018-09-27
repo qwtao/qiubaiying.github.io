@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      Beautiful Soup教程
+date:       2018-07-26
+author:     qwt
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - JS
+---
 # Beautiful Soup教程
 参考自https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html#
 ## 简介
