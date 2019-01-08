@@ -3,15 +3,15 @@ title:  Home
 SEOTitle: 秦山的博客
 header-img: img/post-bg-desk.jpg
 email: qinwentao@pku.edu.cn
-description: "人生也就几万顿饭的的时间"
-keyword: "QWT, QWT Blog, 秦文涛的博客, qinwentao, iOS, Apple, iPhone"
+description: ""
+keyword: "QWT, QWT Blog, 秦山的博客, qinwentao, iOS, Apple, iPhone"
 url: "https://qwtao.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "git@github.com:qwtao/qwtao.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: 喜欢你
+sidebar-about-description: 
 sidebar-avatar: /img/my-photo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
